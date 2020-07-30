@@ -78,7 +78,5 @@ Things you should know -
 - 💬 <b>Ask me about:</b> Software Architectural Patterns, Android Vitals, SaaS, Offline-first App Optimizations
 - 📫 <b>Reach me out:</b> Shoot a mail at <a href="mailto:contact@saad.ninja" target="_blank">contact@saad.ninja</a>
 - ⚡ <b>Rolling in godspeed:</b> Redefining EdTech in :bangladesh:
-
-<p align='center'>
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=saadaakash.visitor-badge">
- <p/>
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=saadaakash&count_private=true&show_icons=true&hide=issues,contribs&theme=algolia" width="100%"/>
