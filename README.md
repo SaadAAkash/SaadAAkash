@@ -1,20 +1,23 @@
-<h3 align="center">Hey! 👋 This is Saad A Akash. 😄 </h3>
-<h4 align="center">INTJ-T x Software Engineer x Musicophile</h4>
+<h3 align="center">Hey! 👋 This is <a href="https://saad.ninja" target="_blank">Saad A Akash</a>. 😄 </h3>
+<h4 align="center">INTJ-T x SWE x UXR</h4>
 <p align="center">
+  <a href="https://saad.ninja/" target="_blank">
+    <img alt="Web" src="https://saadaakash.bitbucket.io/github/web.png" width="40" height="40" >
+  </a>
   <a href="https://www.linkedin.com/in/saadaakash/" target="_blank">
-  <img alt="Saad A Akash on Linkedin" src="http://saad.ninja/img/temp/linkedin.png" width="40" height="40" >
+    <img alt="Linkedin" src="https://saadaakash.bitbucket.io/github/linkedin.png" width="40" height="40" >
   </a>
   <a href="https://stackoverflow.com/u/11040422" target="_blank">
-    <img alt="Saad A Akash on Facebook" src="http://saad.ninja/img/temp/stackoverflow.png" width="40" height="40" >
+    <img alt="Stack Overflow" src="https://saadaakash.bitbucket.io/github/so.png" width="40" height="40" >
   </a>
   <a href="https://twitter.com/SaadAAkash" target="_blank">
-    <img alt="Saad A Akash Twitter" src="http://saad.ninja/img/temp/twitter.png" width="40" height="40" >
+    <img alt="Twitter" src="https://saadaakash.bitbucket.io/github/twitter.png" width="40" height="40" >
   </a>
   <a href="https://medium.com/@SaadAAkash/" target="_blank">
-    <img alt="Saad A Akash on Medium" src="http://saad.ninja/img/temp/medium.png" width="40" height="40" >
+    <img alt="Medium" src="https://saadaakash.bitbucket.io/github/medium.png" width="40" height="40" >
   </a>
   <a href="https://dev.to/saadaakash" target="_blank">
-    <img alt="Saad A Akash on Dev" src="http://saad.ninja/img/temp/dev.png" width="40" height="40" >
+    <img alt="Dev" src="https://saadaakash.bitbucket.io/github/dev.png" width="40" height="40" >
   </a>
 </p>
 
@@ -63,20 +66,19 @@
 
 ---
 
-✨ I write simple, stupid and hence, readable "okay" codes with less WTFs/min from code reviews - mostly in <a href="https://github.com/Kotlin" target="_blank">Kotlin</a>, <a href="https://github.com/python" target="_blank">python</a> & <a href="https://github.com/nodejs" target="_blank">nodejs</a>.
+✨ I write stupid codes to build simple products that solve complex problems - with less WTFs/min from code reviews - mostly in <a href="https://github.com/Kotlin" target="_blank">Kotlin</a>, <a href="https://github.com/python" target="_blank">python</a> & <a href="https://github.com/nodejs" target="_blank">nodejs</a>.
 
-✨ <b>Work Domain:</b> SaaS, Mobile Solutions (App, AR), Cloud Solutions (CRM, ERP, HRM), mobile Sales Force Automation (mSFA)
+✨ <b>Work Domain:</b> SaaS, Mobile Applications, Cloud Solutions (CRM, ERP), mobile Sales Force Automation (mSFA)
 
-✨ <b>Industries:</b> Offshore IT Industry, Digital Agency, EdTech, Logistics & Supply Chain, Insurance.
+✨ <b>Industries:</b> Offshore IT, Digital Agency, EdTech, Logistics & Supply Chain, Insurance.
 
 Things you should know -
 
-- 🔭 <b>Currently working on:</b> Kotlin, GraphQL, IBM MFP, AWS, Django REST
-- 🌱 <b>Getting better at:</b> Jamstack, Scala, Agile Software Development, Technical Product Management
+- 🔭 <b>Currently working on:</b> Kotlin, GraphQL, Flutter, AWS, Django REST
+- 🌱 <b>Getting better at:</b> JAMstack, Agile Software Development, Technical Product Management
 - 🤔 <b>Exploring:</b> Niche Service Industries, Cloud Solutions (CRM & ERP)
 - 👯 <b>Experimenting on:</b> Digitalizing Brand Incubation, Sales Force Automation
 - 💬 <b>Ask me about:</b> Software Architectural Patterns, Android Vitals, SaaS, Offline-first App Optimizations
 - 📫 <b>Reach me out:</b> Shoot a mail at <a href="mailto:contact@saad.ninja" target="_blank">contact@saad.ninja</a>
-- ⚡ <b>Rolling in godspeed:</b> Redefining EdTech in :bangladesh:
  
 <img src="https://github-readme-stats.vercel.app/api?username=saadaakash&count_private=true&show_icons=true&hide=issues,contribs&theme=algolia" width="100%"/>
