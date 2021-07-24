@@ -1,84 +1,67 @@
-<h3 align="center">Hey! 👋 This is <a href="https://saad.ninja" target="_blank">Saad A Akash</a>. 😄 </h3>
-<h4 align="center">INTJ-T x SWE x UXR</h4>
-<p align="center">
-  <a href="https://saad.ninja/" target="_blank">
-    <img alt="Web" src="https://saadaakash.bitbucket.io/github/web.png" width="40" height="40" >
-  </a>
-  <a href="https://www.linkedin.com/in/saadaakash/" target="_blank">
-    <img alt="Linkedin" src="https://saadaakash.bitbucket.io/github/linkedin.png" width="40" height="40" >
-  </a>
-  <a href="https://stackoverflow.com/u/11040422" target="_blank">
-    <img alt="Stack Overflow" src="https://saadaakash.bitbucket.io/github/so.png" width="40" height="40" >
-  </a>
-  <a href="https://twitter.com/SaadAAkash" target="_blank">
-    <img alt="Twitter" src="https://saadaakash.bitbucket.io/github/twitter.png" width="40" height="40" >
-  </a>
-  <a href="https://medium.com/@SaadAAkash/" target="_blank">
-    <img alt="Medium" src="https://saadaakash.bitbucket.io/github/medium.png" width="40" height="40" >
-  </a>
-  <a href="https://dev.to/saadaakash" target="_blank">
-    <img alt="Dev" src="https://saadaakash.bitbucket.io/github/dev.png" width="40" height="40" >
-  </a>
-</p>
+Hey there, it's Saad from :bangladesh: 
 
-<p align="center">
+I write stupid codes to build simple products that solve complex problems. You can find me on:
 
-### Technical Skills
-
-#### Language:
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"></code>
-  
-#### Data:
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/DynamoDB.png/220px-DynamoDB.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-
-#### Frameworks/Platforms:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/gradle/gradle.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"></code>
-
-#### Tools:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-<code><img height="20" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png"></code>
-</p>
+[![](https://img.shields.io/badge/-saad.ninja-0A1A2F?style=flat)](https://saad.ninja)
+[![](https://img.shields.io/badge/-SaadAAkash-0A1A2F?style=flat&logo=about.me)](https://about.me/SaadAAkash)
+[![](https://img.shields.io/badge/-SaadAAkash-0A1A2F?style=flat&logo=linkedin)](https://www.linkedin.com/in/saadaakash)
+[![](https://img.shields.io/badge/-SaadAAkash-0A1A2F?style=flat&logo=Stack%20Overflow)](https://stackoverflow.com/u/11040422)
+[![](https://img.shields.io/badge/-SaadAAkash-0A1A2F?style=flat&logo=medium)](https://medium.com/@SaadAAkash)
+[![](https://img.shields.io/badge/-SaadAAkash-0A1A2F?style=flat&logo=dev.to)](https://dev.to/saadaakash)
+[![](https://img.shields.io/badge/-SaadAAkash-0A1A2F?style=flat&logo=Google%20Scholar)](https://scholar.google.com/citations?user=33PbaVUAAAAJ)
+[![](https://img.shields.io/badge/-SaadAAkash-0A1A2F?style=flat&logo=twitter)](https://twitter.com/SaadAAkash)
+[![](https://img.shields.io/badge/-Saad-0A1A2F?style=flat&logo=discord)](https://discord.com/users/701982771857457222)
 
 ---
+<h3> :hammer_and_wrench: &nbsp;Tech Stack</h3>
 
-✨ I write stupid codes to build simple products that solve complex problems - with less WTFs/min from code reviews - mostly in <a href="https://github.com/Kotlin" target="_blank">Kotlin</a>, <a href="https://github.com/python" target="_blank">python</a> & <a href="https://github.com/nodejs" target="_blank">nodejs</a>.
-
-✨ <b>Work Domain:</b> SaaS, Mobile Applications, Cloud Solutions (CRM, ERP), mobile Sales Force Automation (mSFA)
-
-✨ <b>Industries:</b> Offshore IT, Digital Agency, EdTech, Logistics & Supply Chain, Insurance.
-
-Things you should know -
-
-- 🔭 <b>Currently working on:</b> Kotlin, GraphQL, Flutter, AWS, Django REST
-- 🌱 <b>Getting better at:</b> JAMstack, Agile Software Development, Technical Product Management
-- 🤔 <b>Exploring:</b> Niche Service Industries, Cloud Solutions (CRM & ERP)
-- 👯 <b>Experimenting on:</b> Digitalizing Brand Incubation, Sales Force Automation
-- 💬 <b>Ask me about:</b> Software Architectural Patterns, Android Vitals, SaaS, Offline-first App Optimizations
-- 📫 <b>Reach me out:</b> Shoot a mail at <a href="mailto:contact@saad.ninja" target="_blank">contact@saad.ninja</a>
+- :dagger: &nbsp;Languages:&nbsp;
+  ![](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
+  ![](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=python)
+  ![](https://img.shields.io/badge/-Kotlin-0A1A2F?style=flat&logo=Kotlin)
+  ![](https://img.shields.io/badge/-Java-0A1A2F?style=flat&logo=Java)
+  ![](https://img.shields.io/badge/-Dart-0A1A2F?style=flat&logo=Dart)
+  ![](https://img.shields.io/badge/-R-0A1A2F?style=flat&logo=R)
+  
+- :shield: &nbsp;Data:&nbsp;
+  ![](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)
+  ![](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql)
+  ![](https://img.shields.io/badge/-PostgreSQL-0A1A2F?style=flat&logo=postgresql)
+  ![](https://img.shields.io/badge/-Redis-0A1A2F?style=flat&logo=redis)
+  ![](https://img.shields.io/badge/-DynamoDB-0A1A2F?style=flat&logo=amazon%20dynamodb)
+  ![](https://img.shields.io/badge/-GraphQL-0A1A2F?style=flat&logo=graphql)
  
-<img src="https://github-readme-stats.vercel.app/api?username=saadaakash&count_private=true&show_icons=true&hide=issues,contribs&theme=algolia" width="100%"/>
+- :crossed_swords: &nbsp;Libraries/Frameworks:&nbsp;
+  ![](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
+  ![](https://img.shields.io/badge/-Gatsby-0A1A2F?style=flat&logo=gatsby)
+  ![](https://img.shields.io/badge/-Next.JS-0A1A2F?style=flat&logo=next.js)
+  ![](https://img.shields.io/badge/-Node.JS-0A1A2F?style=flat&logo=node.js)
+  ![](https://img.shields.io/badge/-Django-0A1A2F?style=flat&logo=django)
+  ![](https://img.shields.io/badge/-FastAPI-0A1A2F?style=flat&logo=FastAPI)
+  ![](https://img.shields.io/badge/-Plotly-0A1A2F?style=flat&logo=plotly)
+  ![](https://img.shields.io/badge/-D3.js-0A1A2F?style=flat&logo=D3.js)
+  ![](https://img.shields.io/badge/-Flutter-0A1A2F?style=flat&logo=flutter)
+
+- :anchor: &nbsp;Build Tools/Platforms: &nbsp;
+  ![](https://img.shields.io/badge/-Docker-0A1A2F?style=flat&logo=Docker)
+  ![](https://img.shields.io/badge/-Firebase-0A1A2F?style=flat&logo=Firebase)
+  ![](https://img.shields.io/badge/-AWS-0A1A2F?style=flat&logo=Amazon%20AWS)
+  ![](https://img.shields.io/badge/-Apache%20Maven-0A1A2F?style=flat&logo=Apache%20Maven)
+  ![](https://img.shields.io/badge/-Gradle-0A1A2F?style=flat&logo=Gradle)
+  ![](https://img.shields.io/badge/-Jenkins-0A1A2F?style=flat&logo=Jenkins)
+  ![](https://img.shields.io/badge/-Travis%20CI-0A1A2F?style=flat&logo=Travis%20CI)
+  ![](https://img.shields.io/badge/-Gulp-0A1A2F?style=flat&logo=Gulp)
+  ![](https://img.shields.io/badge/-Grunt-0A1A2F?style=flat&logo=Grunt)
+  
+- :bow_and_arrow: &nbsp;Miscellaneous:&nbsp;
+  ![](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
+  ![](https://img.shields.io/badge/-Adobe%20Experience%20Manager-0A1A2F?style=flat&logo=adobe)
+  ![](https://img.shields.io/badge/-Android-0A1A2F?style=flat&logo=Android)
+  ![](https://img.shields.io/badge/-Apache%20Sling-0A1A2F?style=flat&logo=apache)
+  ![](https://img.shields.io/badge/-p5.js-0A1A2F?style=flat&logo=p5.js)
+  ![](https://img.shields.io/badge/-Arduino-0A1A2F?style=flat&logo=Arduino)
+  ![](https://img.shields.io/badge/-Raspberry%20Pi-0A1A2F?style=flat&logo=Raspberry%20Pi)
+  ![](https://img.shields.io/badge/-LaTeX-0A1A2F?style=flat&logo=LaTeX)
+
+---
+💬 <b>Drop a mail:</b> <a href="mailto:contact@saad.ninja" target="_blank">contact@saad.ninja</a>
